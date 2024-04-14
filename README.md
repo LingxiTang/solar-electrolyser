@@ -10,7 +10,7 @@ Simulation Model of a solar-powered battery-equipped hydrogen electrolyser
 
 **Electrolyser Optimiser v4**: Crude loop of running Electrolyser Model multiple times with different specifications to return specification combination of lowest cost
 
-**3YP Report**: Report submitted using results of Model and Optimiser
+**3YP Report**: Report submitted using results of Model and Optimiser, also contains figure below
 
 ## Model operations
-
+<img width="566" alt="Model Operation" src="https://github.com/LingxiTang/solar-electrolyser/assets/38849678/298b9172-459e-4a3e-942d-7cc4855a5063">
